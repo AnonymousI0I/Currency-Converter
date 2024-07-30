@@ -24,7 +24,7 @@ This Python script converts a given amount in USD to another currency (GBP, EUR,
 2. **Run the script**:
 
     ```bash
-    python currency_converter.py
+    python Currency Converter.py
     ```
 
 3. **Follow the on-screen prompts**:
