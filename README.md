@@ -17,7 +17,7 @@ This Python script converts a given amount in USD to another currency (GBP, EUR,
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-username/currency-converter.git
+    git clone https://github.com/AnonymousI0I/Currency-Converter.git
     cd currency-converter
     ```
 
